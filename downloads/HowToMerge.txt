@@ -1,2 +1,4 @@
-To merge all parts into one zip file, please type this command in the terminal
-cat part* > springer_free_books.zip
+To merge all parts into one zip file, please run 
+python merge_all_zip.py
+or
+python3 merge_all_zip.py
