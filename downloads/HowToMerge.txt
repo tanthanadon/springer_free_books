@@ -1,0 +1,2 @@
+To merge all parts into one zip file, please type this command in the terminal
+cat part* > springer_free_books.zip
